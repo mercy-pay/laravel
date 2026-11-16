@@ -1,6 +1,6 @@
 # Mercy Pay pour Laravel
 
-[Mercy Pay](https://mercy-pay.com) dans une app Laravel 11, 12 ou 13 : la configuration, une façade, et une route qui reçoit les webhooks, vérifie leur signature et les transforme en événements Laravel.
+[Mercy Pay](https://mercy-pay.com) dans une app Laravel 12 ou 13 : la configuration, une façade, et une route qui reçoit les webhooks, vérifie leur signature et les transforme en événements Laravel.
 
 ```sh
 composer require mercy-pay/laravel
